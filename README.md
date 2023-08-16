@@ -8,9 +8,9 @@ Me chamo Pedro e eu adoro tecnologia e tudo que vem dela, por isso gosto muito d
  📧  macedopedro117@yahoo.com.br
 
 
-<h3>Tecnologias</h3>
+<h3>Tecnologias</h3> 
 
-##
+#
 <div>
   <img src="https://skillicons.dev/icons?i=js,html,css,react,vscode" >
 </div>
