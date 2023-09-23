@@ -1,4 +1,4 @@
-### <h1>Oi 😄👋</h1> ##
+<h1>Oi 😄👋</h1> 
 Me chamo Pedro e eu adoro tecnologia e tudo que vem dela, por isso gosto muito da programação. Quando mais jovem tive contato com as linhagens C++ e Assembly e foi assim o meu primeiro contato. Resolvi retomar meus estudos em programação, mais focado na área de front end e back end. 
 
 
@@ -8,7 +8,7 @@ Me chamo Pedro e eu adoro tecnologia e tudo que vem dela, por isso gosto muito d
  📧  macedopedro117@yahoo.com.br
 
 
-## Tecnologias
+Tecnologias
 <div>
   <img src="https://skillicons.dev/icons?i=js,html,css,react,vscode" >
 </div>
