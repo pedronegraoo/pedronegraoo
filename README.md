@@ -10,7 +10,7 @@ Me chamo Pedro e eu adoro tecnologia e tudo que vem dela, por isso gosto muito d
 
 ## Tecnologias  
 <div>
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,vscode" >
+  <img src="https://skillicons.dev/icons?i=js,html,css,git,react,vscode" >
 </div>
 
 ##
