@@ -1,7 +1,8 @@
 ##  Oi 😄👋
-Me chamo Pedro e eu adoro tecnologia e tudo que vem dela, por isso gosto muito da programação. Quando mais jovem tive contato com as linhagens C++ e Assembly e foi assim o meu primeiro contato. Resolvi retomar meus estudos em programação, mais focado na área de front end e back end. 
+Me chamo Pedro e eu adoro tecnologia e tudo que vem dela, por isso gosto muito da programação. Quando mais jovem tive contato com as linhagens C++, Assembly e Portugol, e foi assim o meu primeiro contato. Resolvi retomar meus estudos em programação, mais focado na área de Front-End e Back-End.
+Com conhecimentos em <b>HTML, CSS e JavaScript </b>. Constantemente crio aplicações web com essas tecnologias, e além do desenvolvimento profissional procuro me desenvolver no âmbito pessoal também, buscando sempre evoluir e mais conhecimentos na minha área.
 
-
+ 🚀 Em busca de uma oportunidade <br>
  👨‍💻 Hoje faço projetos como Front-end. <br>
  📚 Estudando React. <br>
  🧠 Sempre na busca de novos conhecimentos. <br>
@@ -10,7 +11,7 @@ Me chamo Pedro e eu adoro tecnologia e tudo que vem dela, por isso gosto muito d
 
 ## Tecnologias  
 <div>
-  <img src="https://skillicons.dev/icons?i=js,html,css,git,bootstrap,react,vscode" >
+  <img src="https://skillicons.dev/icons?i=js,html,css,git,bootstrap,bulma,react" >
 </div>
 
 ##
@@ -21,8 +22,3 @@ Me chamo Pedro e eu adoro tecnologia e tudo que vem dela, por isso gosto muito d
  <a href="" target="_blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
 </div>
 
- <br>
-<div>
-  <a href=""> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedronegraoo&show_icons=true&theme=radical"/>
-</div>
