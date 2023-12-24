@@ -12,7 +12,7 @@ Constantemente crio aplicações web com essas tecnologias, e além do desenvolv
 
 ## Tecnologias  
 <div>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,git,bootstrap,typescript,react" >
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,git,bootstrap,react" >
 </div>
 
 ##
