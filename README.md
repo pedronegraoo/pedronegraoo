@@ -1,5 +1,5 @@
 Me chamo Pedro e gosto muito de tecnologia e tudo que vem dela, por isso gosto muito da programação. Quando mais jovem tive contato com as linhagens C++, Assembly e Portugol, e foi assim o meu primeiro contato. Resolvi retomar meus estudos em programação, mais focado na área de Front-End e Back-End. <br>
-Com conhecimentos em <b>HTML, CSS, JavaScript, TypeScript, SASS, Bulma, Bootstrap </b>. <br>
+Com conhecimentos em <b>HTML, CSS, JavaScript, TypeScript, SASS, Bulma, Bootstrap, ReactJS </b>. <br>
 Constantemente crio aplicações web com essas tecnologias, e além do desenvolvimento profissional procuro me desenvolver no âmbito pessoal também, buscando sempre evoluir e mais conhecimentos na minha área.
 
  🚀 Em busca de uma oportunidade <br>
