@@ -1,6 +1,6 @@
-Me chamo Pedro e gosto muito de tecnologia e tudo que vem dela, por isso gosto muito da programação. Quando mais jovem tive contato com as linhagens C++, Assembly e Portugol, e foi assim o meu primeiro contato. Resolvi retomar meus estudos em programação, mais focado na área de Front-End. <br>
-Com conhecimentos em <b>ReactJS, JavaScript, TypeScript, Styled-Components, SASS, Bulma, Bootstrap, HTML, CSS, </b>. <br>
-Constantemente crio aplicações web com essas tecnologias, e além do desenvolvimento profissional procuro me desenvolver no âmbito pessoal também, buscando sempre evoluir e mais conhecimentos na minha área.
+Me chamo Pedro e gosto muito de tecnologia e tudo que vem dela.<br>
+Com conhecimentos em <b>ReactJS, JavaScript, TypeScript, Styled-Components, SASS, Bulma, Bootstrap, HTML, CSS, </b>. Constantemente crio aplicações web com essas tecnologias. <br>
+Além do desenvolvimento profissional procuro me desenvolver no âmbito pessoal também, buscando sempre evoluir e obter mais conhecimentos.
 
  🚀 Em busca de uma oportunidade <br>
  👨‍💻 Hoje faço projetos como Front-end. <br>
@@ -11,7 +11,7 @@ Constantemente crio aplicações web com essas tecnologias, e além do desenvolv
 
 ## Tecnologias  
 <div>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,styledcomponents,sass,html,css,git,bootstrap," >
+  <img src="https://skillicons.dev/icons?i=react,ts,js,styledcomponents,sass,html,css,git,bootstrap" >
 </div>
 
 ##
