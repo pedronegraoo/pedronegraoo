@@ -11,7 +11,7 @@ Além do desenvolvimento profissional procuro me desenvolver no âmbito pessoal 
 
 ## Tecnologias  
 <div>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,styledcomponents,sass,html,css,git,bootstrap" >
+  <img src="https://skillicons.dev/icons?i=react,js,ts,styledcomponents,sass,html,css,git,bootstrap" >
 </div>
 
 ##
