@@ -4,14 +4,14 @@ Além do desenvolvimento profissional procuro me desenvolver no âmbito pessoal 
 
  🚀 Em busca de uma oportunidade <br>
  👨‍💻 Hoje faço projetos como Front-end. <br>
- 📚 Estudando React. <br>
+ 📚 Estudando Next.JS. <br>
  🧠 Sempre na busca de novos conhecimentos. <br>
  📧  macedopedro117@yahoo.com.br
 
 
 ## Tecnologias  
 <div>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,styledcomponents,sass,html,css,git,bootstrap" >
+  <img src="https://skillicons.dev/icons?i=react,js,ts,styledcomponents,sass,html,css,git,bootstrap,next" >
 </div>
 
 ##
